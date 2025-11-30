@@ -31,7 +31,7 @@ A. Installing the pyclipboard.
     
 1. Clone the repository
 ```bash
-git clone https://github.com/DevManoj96/PyClipBoard.git
+git clone https://github.com/VoinFeix/PyClipBoard.git
 ```
 
 2. Install the requirements.
